@@ -1,7 +1,7 @@
 # 💫 About Me:
 <br>🌱 I’m currently learning Javascript<br>💬 Ask me about Webdevelopment<br>
 - 👀 I’m interested in Web designing and development.
-- 🌱 I’m currently expart on HTML and CSS , now focusing on Javascript
+- 🌱 I’m currently expart on HTML , CSS and Tailwind CSS , now focusing on Javascript
 - 📫 How to reach me - ad.monir2001@gmail.com
 
 ## 🌐 Socials:

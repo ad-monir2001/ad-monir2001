@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning Javascript<br>💬 Ask me about Webdevelopment<br>
+<br>🌱 I’m currently learning React js<br>💬 Ask me about Webdevelopment<br>
 - 👀 I’m interested in Web designing and development.
 - 🌱 I’m currently expart on HTML , CSS , DaisyUI and Tailwind CSS , Javascript ES6+, now focusing on React
 - 📫 How to reach me - ad.monir2001@gmail.com

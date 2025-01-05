@@ -1,5 +1,7 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning React js<br>💬 Ask me about Webdevelopment<br>
+<br>A passionate Front-end developer with experience creating responsive, user-friendly websites. Proficient in HTML, CSS, JavaScript, React js, MongoDB, Firebase for authentication and frameworks like Tailwind CSS, I specialize in crafting clean, modern, and intuitive interfaces.
+
+Whether you're looking to bring your design to life or improve your website's performance, I'm here to help!<br>
 - 👀 I’m interested in Web designing and development.
 - 🌱 I’m expart on HTML , CSS , DaisyUI and Tailwind CSS , Javascript ES6+, now focusing on React
 - 📫 How to reach me - ad.monir2001@gmail.com

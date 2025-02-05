@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/89fhk60/Black-And-Purple-Gradient-Modern-Minimalist-L-Made-with-Poster-My-Wall.jpg"  />
+  <img height="200" src="https://i.imgur.com/eYhxpzU.png"  />
 </div>
 
 ###
